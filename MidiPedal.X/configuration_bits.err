@@ -1,0 +1,9 @@
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 12 : configuration setting 'OSC' not recognized
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 14 : configuration setting 'FSCM' not recognized
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 18 : configuration setting 'PWRT' not recognized
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 19 : configuration setting 'BOR' not recognized
+Error[1225] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 20 : configuration value '27' not recognized for configuration setting 'BORV'
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 23 : configuration setting 'WDT' not recognized
+Error[1225] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 27 : configuration value 'ON' not recognized for configuration setting 'MCLRE'
+Error[1224] D:\projekte\10-MidiPedal\MidiPedal.X\chipconfig.h 30 : configuration setting 'STVR' not recognized
+Error[yy] D:\projekte\10-MidiPedal\MidiPedal.X\configuration_bits.c 4 : syntax error
